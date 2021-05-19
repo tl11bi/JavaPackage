@@ -1,5 +1,7 @@
-package List;
+package List.LinkedList;
 
+
+import List.List;
 
 import java.io.Serializable;
 import java.util.Deque;
